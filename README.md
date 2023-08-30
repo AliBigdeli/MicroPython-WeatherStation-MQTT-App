@@ -3,7 +3,7 @@
 
 <div align="center" ><a href="https://easy-iot.ir"><img loading="lazy" style="width:700px" src="./docs/banner.png"></a></div>
 
-<h3 align="center">a web app application to show you the usage of webserver in micropython for reading and controlling modules</h3>
+<h3 align="center">a simple mqtt application to connect the module to broker and control and monitor data though wifi connection</h3>
 <p align="center">
 <a href="https://www.micropython.org/" target="_blank"> <img src="https://micropython.org/static/img/Mlogo_138wh.png" alt="micropython" width="40" height="40"/> </a> 
 <a href="https://www.easy-iot.ir/" target="_blank"> <img src="https://easy-iot.io/wp-content/uploads/2022/02/logo.png" alt="easy-iot" width="90" height="40"/> </a> 
